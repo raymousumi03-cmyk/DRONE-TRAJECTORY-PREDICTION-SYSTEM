@@ -30,4 +30,4 @@ This project focuses on Drone Trajectory Analysis and Prediction using drone tel
 Successfully built a comprehensive Drone Trajectory Analysis and Prediction System capable of processing telemetry data, analyzing flight behavior, visualizing drone movements, and predicting future flight paths using machine learning techniques.
 
 
-![Dashboard preview]("C:\Users\raymo\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 162820.png")
+![Dashboard preview](https://github.com/raymousumi03-cmyk/DRONE-TRAJECTORY-PREDICTION-SYSTEM/blob/main/2D%20path%20analysis.png)
